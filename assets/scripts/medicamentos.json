@@ -1,0 +1,28 @@
+[
+    {
+      "nome": "Dipirona",
+      "dosagem": "500mg",
+      "frequencia": "3x ao dia"
+    },
+    {
+      "nome": "Paracetamol",
+      "dosagem": "500mg",
+      "frequencia": "4x ao dia"
+    },
+    {
+      "nome": "Ibuprofeno",
+      "dosagem": "400mg",
+      "frequencia": "3x ao dia"
+    },
+    {
+      "nome": "Azitromicina",
+      "dosagem": "500mg",
+      "frequencia": "1x ao dia"
+    },
+    {
+      "nome": "Amoxilina",
+      "dosagem": "500mg",
+      "frequencia": "2x ao dia"
+    }
+  ]
+  
